@@ -6,6 +6,6 @@ Este proyecto tiene como objetivo poner en práctica tareas habituales de ingeni
 
 - Encabezado con descripción del proyecto.
 
-- Botón para generar un histograma (por ejemplo, de la columna `odometer`).
+- Botón para generar un histograma.
 
-- Checkbox para generar un gráfico de dispersión (Puede tardar varios segundos en aparecer).
+- Checkbox para generar un gráfico de dispersión.
